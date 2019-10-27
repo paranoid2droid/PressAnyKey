@@ -2,6 +2,8 @@
 
 A Keyboard-controlled Step Audio/Video Sequencer Based on MAX/MSP
 
+**See video demo [here](https://youtu.be/8Ujnpoe67bc).**
+
 -------
 
 ## Introduction
